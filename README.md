@@ -1,3 +1,6 @@
+[![Docker Stars](https://img.shields.io/docker/stars/mluis/qemu-esp32.svg)](https://hub.docker.com/r/mluis/qemu-esp32/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/mluis/qemu-esp32.svg)](https://hub.docker.com/r/mluis/qemu-esp32/)
+
 <p align="center">
  <img style="" src="https://repository-images.githubusercontent.com/339300515/53c261b1-bbb2-4ea2-a97c-bab8b5938282" width="256"/>
  <p align="center">
